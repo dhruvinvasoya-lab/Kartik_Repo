@@ -1,0 +1,98 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_mainmenurefreshTextView1783500689851",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main_menu_refresh'])[1]",
+                    "locator_id": "3",
+                    "d_h": 132,
+                    "d_w": 132,
+                    "d_x": 684,
+                    "d_y": 94,
+                    "suggest_name": "mainmenurefreshTextView1783500689851"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "mainmenurefreshTextView1783500689851",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "132",
+                    "d_w": "132",
+                    "d_x": "684",
+                    "d_y": "94",
+                    "element_area": 264,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.15/s/ele-imgs/1813/20107.png"
+        },
+        {
+            "testcase_element": "ele_mainmenusearchcityTextView1783500732508",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main_menu_search_city'])[1]",
+                    "locator_id": "3",
+                    "d_h": 132,
+                    "d_w": 132,
+                    "d_x": 816,
+                    "d_y": 94,
+                    "suggest_name": "mainmenusearchcityTextView1783500732508"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "mainmenusearchcityTextView1783500732508",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]"
+                    ],
+                    "img": "",
+                    "d_h": "132",
+                    "d_w": "132",
+                    "d_x": "816",
+                    "d_y": "94",
+                    "element_area": 264,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.15/s/ele-imgs/1813/20108.png"
+        },
+        {
+            "testcase_element": "ele_NavigateupImageButton1783500751203",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton",
+                    "locator_id": "3",
+                    "d_h": 154,
+                    "d_w": 154,
+                    "d_x": 0,
+                    "d_y": 83,
+                    "suggest_name": "NavigateupImageButton1783500751203"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.15/s/ele-imgs/1813/20109.png"
+        }
+    ]
+}
