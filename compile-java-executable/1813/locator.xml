@@ -16,4 +16,7 @@
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
     <element type="image">http://192.168.4.15/s/ele-imgs/1813/20109.png</element>
   </locator>
+  <locator name="ele_SSAA">
+    <element type="id">com.app.urunner:id/et_emaills</element>
+  </locator>
 </locators>

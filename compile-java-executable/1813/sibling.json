@@ -93,6 +93,14 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://192.168.4.15/s/ele-imgs/1813/20109.png"
+        },
+        {
+            "testcase_element": "ele_SSAA",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [],
+            "iframe_and_shadow_root_data": [],
+            "image_url": ""
         }
     ]
 }
