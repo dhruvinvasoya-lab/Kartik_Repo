@@ -28,6 +28,7 @@ public class tc1 {
 		tg.click("ele_mainmenusearchcityTextView1783500732508", 1);
 		tg.wait("ele_NavigateupImageButton1783500751203", ComparisonType.IS_VISIBLE);
 		tg.click("ele_NavigateupImageButton1783500751203", 1);
+		tg.wait(2);
 		tg.close();
 	}
 }
