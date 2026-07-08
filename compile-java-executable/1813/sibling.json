@@ -101,6 +101,34 @@
             "locator": [],
             "iframe_and_shadow_root_data": [],
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Ele1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Web_class",
+                    "locators_val": "//span[normalize-space()='Practice Form']TGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Ele1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "web_class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_res1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [],
+            "iframe_and_shadow_root_data": [],
+            "image_url": ""
         }
     ]
 }

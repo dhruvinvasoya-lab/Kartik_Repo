@@ -19,4 +19,10 @@
   <locator name="ele_SSAA">
     <element type="id">com.app.urunner:id/et_emaills</element>
   </locator>
+  <locator name="ele_Ele1">
+    <element type="web_class">//span[normalize-space()='Practice Form']TGWEBCOMMACssClassTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_res1">
+    <element type="id">com.nestdesign.nestforms:id/usernameEdit</element>
+  </locator>
 </locators>
