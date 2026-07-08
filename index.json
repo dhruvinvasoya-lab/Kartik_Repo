@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-08 15:42:32",
+            "view_updated_date_time": "2026-07-08 15:43:46",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "",
@@ -347,7 +347,14 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "236",
+            "version_id": "658",
+            "capabilities_keyname": "appActivity",
+            "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
+        }
+    ],
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
@@ -375,6 +382,18 @@
             "gv_category": "runtime",
             "created": "2026-07-08 10:13:24",
             "updated": "2026-07-08 10:13:24"
+        },
+        {
+            "variable_id": "668",
+            "user_id": "41",
+            "app_id": "376",
+            "version_id": "658",
+            "variable_type": "String",
+            "variable_name": "rstr",
+            "variable_value": "runstring",
+            "gv_category": "runtime",
+            "created": "2026-07-08 10:15:27",
+            "updated": "2026-07-08 10:15:27"
         }
     ],
     "ab_scheduler": [],
