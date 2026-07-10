@@ -1,3 +1,4 @@
+import abc;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -14,6 +15,12 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class SuiteAnd {
+
+class convfunc {
+
+	public static void convfunc() {
+		tg.wait(3);
+		tg.printLogs("Testcase 3");
+		tg.printLogs("Textcase4");
+	}
 }

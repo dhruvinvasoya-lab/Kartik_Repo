@@ -14,6 +14,18 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class SuiteAnd {
+
+@Listeners(TestListener.class);
+public class urun1 {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void urun1() {
+		tg.openDevice();
+				tg.swipe(Direction.DOWN);
+				tg.wait("ele_EnteremailaddressEditText1783676670334", ComparisonType.IS_VISIBLE);
+				tg.click("ele_EnteremailaddressEditText1783676670334", 1);
+				tg.wait("ele_EnteremailaddressEditText1783676670334", ComparisonType.IS_VISIBLE);
+				tg.type("ele_EnteremailaddressEditText1783676670334", "email", true);
+		tg.close();
+	}
 }

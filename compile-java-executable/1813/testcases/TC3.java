@@ -1,3 +1,4 @@
+import abc;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -14,6 +15,16 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class SuiteAnd {
+
+@Listeners(TestListener.class);
+public class tc3 {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void tc3() {
+		tg.openDevice();
+		tg.wait(3);
+		tg.printLogs("Testcase 3");
+		tg.printLogs("Textcase4");
+		tg.close();
+	}
 }
