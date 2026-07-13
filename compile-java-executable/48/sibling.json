@@ -780,6 +780,26 @@
             ],
             "iframe_and_shadow_root_data": [],
             "image_url": "http://192.168.4.21/s/ele-imgs/48/1335.png"
+        },
+        {
+            "testcase_element": "ele_ImageView1783953868068",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.ScrollView/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView",
+                    "locator_id": "3",
+                    "d_h": 242,
+                    "d_w": 432,
+                    "d_x": 0,
+                    "d_y": 653,
+                    "suggest_name": "ImageView1783953868068"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/48/1336.png"
         }
     ]
 }

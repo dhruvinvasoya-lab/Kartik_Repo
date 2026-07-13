@@ -40,6 +40,7 @@ public class tc01 {
 		// [DISABLED] 		tg.wait("ele_musicTextView1783775562237", ComparisonType.IS_VISIBLE);
 		// [DISABLED] 		tg.click("ele_musicTextView1783775562237", 1);
 				tg.click("ele_ImageView1783775913883", 1);
+				tg.click("ele_ImageView1783953868068", 1);
 				tg.wait(20);
 		START_CUSTOM_SCRIPT;
 		driver.executeScript("mobile: terminateApp", Map.of(
