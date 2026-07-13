@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "177",
-    "user_id": 65,
+    "version_id": 177,
+    "user_id": 72,
     "abo_version": {
         "version_id": "177",
         "app_id": "153",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "153",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-13 08:03:40",
+            "view_updated_date_time": "2026-07-13 08:14:45",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -145,14 +145,14 @@
                     "tc_website_url": "",
                     "it_json": "",
                     "cm_step_list": "",
-                    "is_compiled": "0",
+                    "is_compiled": "1",
                     "xray_type_of_issue_id": null,
                     "xray_type_of_issue_key": null,
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "1",
                     "is_draft": "0",
-                    "updated_at": "2026-07-13 08:01:08",
+                    "updated_at": "2026-07-13 08:15:47",
                     "created_at": "2026-07-13 08:01:08",
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
@@ -719,35 +719,7 @@
                 }
             ],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "1031",
-                    "user_id": "65",
-                    "app_id": "153",
-                    "version_id": "177",
-                    "version_module_id": "207",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "1032",
-                    "user_id": "65",
-                    "app_id": "153",
-                    "version_id": "177",
-                    "version_module_id": "207",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "1038",
-                    "user_id": "65",
-                    "app_id": "153",
-                    "version_id": "177",
-                    "version_module_id": "207",
-                    "description": "",
-                    "action_process": "delete_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
