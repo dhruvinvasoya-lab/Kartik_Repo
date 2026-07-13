@@ -1,0 +1,771 @@
+{
+    "status": true,
+    "message": "Version data loaded successfully.",
+    "version_id": "177",
+    "user_id": 65,
+    "abo_version": {
+        "version_id": "177",
+        "app_id": "153",
+        "version_name": "NativeAndroid",
+        "version_description": "",
+        "cm_version_module": "207",
+        "platform": "2",
+        "ai_modal_id": "cotester_client_zgTXEr7GYA7ygDJ5NCJQcBkN",
+        "script_type": "1",
+        "is_master": "1",
+        "is_delete": "0",
+        "xray_project_version": null,
+        "restore_id": "0",
+        "is_git_enabled": "0",
+        "git_restore_id": "0"
+    },
+    "app_id": "153",
+    "platform": "2",
+    "ab_applications": {
+        "app_id": "153",
+        "project_id": "44",
+        "name": "NativeProj_288bd1b7959749ce",
+        "display_name": "NativeProj",
+        "user_id": "65",
+        "os_type": "0",
+        "platform": "2",
+        "nob": "3",
+        "application_token": "e7a9c625f2770042750ae17755e82355",
+        "cm_version_id": "177,184",
+        "is_autoheal": "1",
+        "is_autoheal_autofixed": "0",
+        "is_testcase_retries": "0",
+        "testcase_retries_number": "3",
+        "is_ai_autoheal": "0",
+        "is_ai_autoheal_autofixed": "0",
+        "ai_modal_id": "",
+        "jira_project_id": null,
+        "created_by": "65",
+        "project_restriction_type": "1",
+        "is_delete": "0",
+        "created": "2026-07-09 11:24:59",
+        "updated": "2026-07-09 11:24:59"
+    },
+    "abo_version_module": [
+        {
+            "version_module_id": "207",
+            "version_id": "177",
+            "parent_id": "0",
+            "module_name": "TUserAnd",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
+            "cm_test_case": "884,885,888,891",
+            "cm_test_case_ai": "",
+            "cm_network": "",
+            "cm_renderer": "",
+            "view_updated_date_time": "2026-07-13 08:03:40",
+            "is_updated": "1",
+            "is_complie": "1",
+            "server_ids": null,
+            "is_running": "0",
+            "is_delete": "0",
+            "qtest_skip_module_sync": "0",
+            "qtest_skip_exec_sync": "0",
+            "vault_secret_path": null,
+            "abo_vm_test_case": [
+                {
+                    "tc_id": "884",
+                    "version_module_id": "207",
+                    "tc_name": "Tc01",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "0",
+                    "updated_at": "2026-07-13 07:44:11",
+                    "created_at": "2026-07-13 07:44:11",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/153/177/207/testcases/tc01.java"
+                },
+                {
+                    "tc_id": "885",
+                    "version_module_id": "207",
+                    "tc_name": "Tc02",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "is_draft": "0",
+                    "updated_at": "2026-07-13 07:46:19",
+                    "created_at": "2026-07-13 07:46:19",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/153/177/207/testcases/tc02.java"
+                },
+                {
+                    "tc_id": "888",
+                    "version_module_id": "207",
+                    "tc_name": "TC23",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "0",
+                    "updated_at": "2026-07-13 07:53:12",
+                    "created_at": "2026-07-13 07:53:12",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/153/177/207/testcases/tc23.java"
+                },
+                {
+                    "tc_id": "891",
+                    "version_module_id": "207",
+                    "tc_name": "TCGDW",
+                    "tc_description": " (Generated from Manual Test Case)",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "is_draft": "0",
+                    "updated_at": "2026-07-13 08:01:08",
+                    "created_at": "2026-07-13 08:01:08",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/153/177/207/testcases/tcgdw.java"
+                }
+            ],
+            "abo_version_proc": [],
+            "abo_vm_test_case_manual": [
+                {
+                    "tc_id": "61",
+                    "test_case_id": "0",
+                    "jira_id": "6",
+                    "version_module_id": "207",
+                    "tc_name": "Verify field value is saved when valid input is provided",
+                    "thread_id": null,
+                    "tc_description": "Test Case Title: Verify field value is saved when valid input is provided\nModule: Issue Creation\nPriority: Medium\n\nPreconditions:\n- - User has access to create or update an issue in the system.\n- - The field (e.g., description or custom field) is available and visible on the issue creation or editing screen.\n\nTest Steps:\n1. Navigate to the issue creation page.\n2. Enter valid text into the description field.\n3. Enter a valid value into the customfield_10204 field.\n4. Click the Save or Create button.\n5. Open the newly created issue.\n6. Verify the description and customfield_10204 fields display the values entered.\n\nExpected Result:\n- - The issue is successfully created.\n- - The description and customfield_10204 field values are saved and visible in the issue details.",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-13 07:57:50",
+                    "created_at": "2026-07-13 07:57:50",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "507",
+                            "tc_id": "61",
+                            "step_order": "1",
+                            "step_action": "Navigate to the issue creation page.",
+                            "created_at": "2026-07-13 07:57:50",
+                            "updated_at": "2026-07-13 07:57:50"
+                        },
+                        {
+                            "step_id": "508",
+                            "tc_id": "61",
+                            "step_order": "2",
+                            "step_action": "Enter valid text into the description field.",
+                            "created_at": "2026-07-13 07:57:50",
+                            "updated_at": "2026-07-13 07:57:50"
+                        },
+                        {
+                            "step_id": "509",
+                            "tc_id": "61",
+                            "step_order": "3",
+                            "step_action": "Enter a valid value into the customfield_10204 field.",
+                            "created_at": "2026-07-13 07:57:50",
+                            "updated_at": "2026-07-13 07:57:50"
+                        },
+                        {
+                            "step_id": "510",
+                            "tc_id": "61",
+                            "step_order": "4",
+                            "step_action": "Click the Save or Create button.",
+                            "created_at": "2026-07-13 07:57:50",
+                            "updated_at": "2026-07-13 07:57:50"
+                        },
+                        {
+                            "step_id": "511",
+                            "tc_id": "61",
+                            "step_order": "5",
+                            "step_action": "Open the newly created issue.",
+                            "created_at": "2026-07-13 07:57:50",
+                            "updated_at": "2026-07-13 07:57:50"
+                        },
+                        {
+                            "step_id": "512",
+                            "tc_id": "61",
+                            "step_order": "6",
+                            "step_action": "Verify the description and customfield_10204 fields display the values entered.",
+                            "created_at": "2026-07-13 07:57:50",
+                            "updated_at": "2026-07-13 07:57:50"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "31",
+                            "tc_id": "61",
+                            "thread_id": "cotester_thread_6a549a79219081939c67b5360dea55200ea74289c2f6ae73",
+                            "user_id": "72",
+                            "message": "Please generate a manual test case based on JIRA story - 30133",
+                            "message_type": "sender",
+                            "created_at": "2026-07-13 07:57:50",
+                            "updated_at": "2026-07-13 07:57:50"
+                        },
+                        {
+                            "id": "32",
+                            "tc_id": "61",
+                            "thread_id": "cotester_thread_6a549a79219081939c67b5360dea55200ea74289c2f6ae73",
+                            "user_id": "72",
+                            "message": "Test Case Title: Verify field value is saved when valid input is provided\nModule: Issue Creation\nPriority: Medium\n\nPreconditions:\n- - User has access to create or update an issue in the system.\n- - The field (e.g., description or custom field) is available and visible on the issue creation or editing screen.\n\nTest Steps:\n1. Navigate to the issue creation page.\n2. Enter valid text into the description field.\n3. Enter a valid value into the customfield_10204 field.\n4. Click the Save or Create button.\n5. Open the newly created issue.\n6. Verify the description and customfield_10204 fields display the values entered.\n\nExpected Result:\n- - The issue is successfully created.\n- - The description and customfield_10204 field values are saved and visible in the issue details.",
+                            "message_type": "replier",
+                            "created_at": "2026-07-13 07:57:50",
+                            "updated_at": "2026-07-13 07:57:50"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "62",
+                    "test_case_id": "0",
+                    "jira_id": "6",
+                    "version_module_id": "207",
+                    "tc_name": "Verify system behavior when attempting to save an issue with a missing required field",
+                    "thread_id": null,
+                    "tc_description": "Test Case Title: Verify system behavior when attempting to save an issue with a missing required field\nModule: Issue Creation\nPriority: Medium\n\nPreconditions:\n- - User has access to create or update an issue in the system.\n- - The field (e.g., description or customfield_10204) is set as required in the system configuration.\n\nTest Steps:\n1. Navigate to the issue creation page.\n2. Leave the required description or customfield_10204 field empty.\n3. Fill in all other mandatory fields as needed.\n4. Click the Save or Create button.\n\nExpected Result:\n- - The system displays an error message indicating the missing required field.\n- - The issue is not saved.\n- - The user remains on the issue creation page with validation feedback.",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-13 07:57:51",
+                    "created_at": "2026-07-13 07:57:51",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "513",
+                            "tc_id": "62",
+                            "step_order": "1",
+                            "step_action": "Navigate to the issue creation page.",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        },
+                        {
+                            "step_id": "514",
+                            "tc_id": "62",
+                            "step_order": "2",
+                            "step_action": "Leave the required description or customfield_10204 field empty.",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        },
+                        {
+                            "step_id": "515",
+                            "tc_id": "62",
+                            "step_order": "3",
+                            "step_action": "Fill in all other mandatory fields as needed.",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        },
+                        {
+                            "step_id": "516",
+                            "tc_id": "62",
+                            "step_order": "4",
+                            "step_action": "Click the Save or Create button.",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "33",
+                            "tc_id": "62",
+                            "thread_id": "cotester_thread_6a549a79219081939c67b5360dea55200ea74289c2f6ae73",
+                            "user_id": "72",
+                            "message": "Please generate a manual test case based on JIRA story - 30133",
+                            "message_type": "sender",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        },
+                        {
+                            "id": "34",
+                            "tc_id": "62",
+                            "thread_id": "cotester_thread_6a549a79219081939c67b5360dea55200ea74289c2f6ae73",
+                            "user_id": "72",
+                            "message": "Test Case Title: Verify system behavior when attempting to save an issue with a missing required field\nModule: Issue Creation\nPriority: Medium\n\nPreconditions:\n- - User has access to create or update an issue in the system.\n- - The field (e.g., description or customfield_10204) is set as required in the system configuration.\n\nTest Steps:\n1. Navigate to the issue creation page.\n2. Leave the required description or customfield_10204 field empty.\n3. Fill in all other mandatory fields as needed.\n4. Click the Save or Create button.\n\nExpected Result:\n- - The system displays an error message indicating the missing required field.\n- - The issue is not saved.\n- - The user remains on the issue creation page with validation feedback.",
+                            "message_type": "replier",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "63",
+                    "test_case_id": "0",
+                    "jira_id": "6",
+                    "version_module_id": "207",
+                    "tc_name": "Verify maximum character limit for the description field",
+                    "thread_id": null,
+                    "tc_description": "Test Case Title: Verify maximum character limit for the description field\nModule: Issue Creation\nPriority: Low\n\nPreconditions:\n- - User has access to create or update an issue in the system.\n- - The maximum allowed character length for the description field is known (e.g., 255 characters).\n\nTest Steps:\n1. Navigate to the issue creation page.\n2. Enter a string into the description field that is exactly at the maximum allowed character length.\n3. Click the Save or Create button.\n4. Open the created issue.\n5. Repeat the process with a string that exceeds the maximum character length by one character.\n\nExpected Result:\n- - When entering the maximum allowed number of characters, the issue is saved and the field value is displayed as entered.\n- - When exceeding the maximum character limit, the system displays a validation error and does not save the issue.",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-13 07:57:51",
+                    "created_at": "2026-07-13 07:57:51",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "517",
+                            "tc_id": "63",
+                            "step_order": "1",
+                            "step_action": "Navigate to the issue creation page.",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        },
+                        {
+                            "step_id": "518",
+                            "tc_id": "63",
+                            "step_order": "2",
+                            "step_action": "Enter a string into the description field that is exactly at the maximum allowed character length.",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        },
+                        {
+                            "step_id": "519",
+                            "tc_id": "63",
+                            "step_order": "3",
+                            "step_action": "Click the Save or Create button.",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        },
+                        {
+                            "step_id": "520",
+                            "tc_id": "63",
+                            "step_order": "4",
+                            "step_action": "Open the created issue.",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        },
+                        {
+                            "step_id": "521",
+                            "tc_id": "63",
+                            "step_order": "5",
+                            "step_action": "Repeat the process with a string that exceeds the maximum character length by one character.",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "35",
+                            "tc_id": "63",
+                            "thread_id": "cotester_thread_6a549a79219081939c67b5360dea55200ea74289c2f6ae73",
+                            "user_id": "72",
+                            "message": "Please generate a manual test case based on JIRA story - 30133",
+                            "message_type": "sender",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        },
+                        {
+                            "id": "36",
+                            "tc_id": "63",
+                            "thread_id": "cotester_thread_6a549a79219081939c67b5360dea55200ea74289c2f6ae73",
+                            "user_id": "72",
+                            "message": "Test Case Title: Verify maximum character limit for the description field\nModule: Issue Creation\nPriority: Low\n\nPreconditions:\n- - User has access to create or update an issue in the system.\n- - The maximum allowed character length for the description field is known (e.g., 255 characters).\n\nTest Steps:\n1. Navigate to the issue creation page.\n2. Enter a string into the description field that is exactly at the maximum allowed character length.\n3. Click the Save or Create button.\n4. Open the created issue.\n5. Repeat the process with a string that exceeds the maximum character length by one character.\n\nExpected Result:\n- - When entering the maximum allowed number of characters, the issue is saved and the field value is displayed as entered.\n- - When exceeding the maximum character limit, the system displays a validation error and does not save the issue.",
+                            "message_type": "replier",
+                            "created_at": "2026-07-13 07:57:51",
+                            "updated_at": "2026-07-13 07:57:51"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "64",
+                    "test_case_id": "0",
+                    "jira_id": "7",
+                    "version_module_id": "207",
+                    "tc_name": "Verify Updating Issue Updates the \"updated\" Timestamp Successfully",
+                    "thread_id": null,
+                    "tc_description": "Test Case Title: Verify Updating Issue Updates the \"updated\" Timestamp Successfully\nModule: Issue Management\nPriority: Medium\n\nPreconditions:\n- - User is authenticated and has permission to update issues.\n- - Issue SCRIP-100 exists in the system.\n\nTest Steps:\n1. Navigate to the issue SCRIP-100 detail page.\n2. Edit any field such as \"description\" or \"fix version\".\n3. Save the changes made to the issue.\n4. Observe the \"updated\" timestamp displayed on the issue.\n\nExpected Result:\n- - Updated timestamp reflects the current date and time corresponding to the recent change.\n- - The system confirms the changes were saved successfully.",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-13 07:57:59",
+                    "created_at": "2026-07-13 07:57:59",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "522",
+                            "tc_id": "64",
+                            "step_order": "1",
+                            "step_action": "Navigate to the issue SCRIP-100 detail page.",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "step_id": "523",
+                            "tc_id": "64",
+                            "step_order": "2",
+                            "step_action": "Edit any field such as \"description\" or \"fix version\".",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "step_id": "524",
+                            "tc_id": "64",
+                            "step_order": "3",
+                            "step_action": "Save the changes made to the issue.",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "step_id": "525",
+                            "tc_id": "64",
+                            "step_order": "4",
+                            "step_action": "Observe the \"updated\" timestamp displayed on the issue.",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "37",
+                            "tc_id": "64",
+                            "thread_id": "cotester_thread_6a549a82cd7881948f485b380dbdc52700029a587e5955e0",
+                            "user_id": "72",
+                            "message": "Please generate a manual test case based on JIRA story - 30159",
+                            "message_type": "sender",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "id": "38",
+                            "tc_id": "64",
+                            "thread_id": "cotester_thread_6a549a82cd7881948f485b380dbdc52700029a587e5955e0",
+                            "user_id": "72",
+                            "message": "Test Case Title: Verify Updating Issue Updates the \"updated\" Timestamp Successfully\nModule: Issue Management\nPriority: Medium\n\nPreconditions:\n- - User is authenticated and has permission to update issues.\n- - Issue SCRIP-100 exists in the system.\n\nTest Steps:\n1. Navigate to the issue SCRIP-100 detail page.\n2. Edit any field such as \"description\" or \"fix version\".\n3. Save the changes made to the issue.\n4. Observe the \"updated\" timestamp displayed on the issue.\n\nExpected Result:\n- - Updated timestamp reflects the current date and time corresponding to the recent change.\n- - The system confirms the changes were saved successfully.",
+                            "message_type": "replier",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "65",
+                    "test_case_id": "0",
+                    "jira_id": "7",
+                    "version_module_id": "207",
+                    "tc_name": "Attempt to Update Issue Without Sufficient Permissions",
+                    "thread_id": null,
+                    "tc_description": "Test Case Title: Attempt to Update Issue Without Sufficient Permissions\nModule: Issue Management\nPriority: High\n\nPreconditions:\n- - User is authenticated but does not have update permissions for issues.\n- - Issue SCRIP-100 exists in the system.\n\nTest Steps:\n1. Navigate to the issue SCRIP-100 detail page.\n2. Attempt to edit any field such as \"description\" or \"fix version\".\n3. Try to save the changes.\n\nExpected Result:\n- - System displays an appropriate error message indicating insufficient permissions.\n- - No change is made to the issue.\n- - \"Updated\" timestamp remains unchanged.",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-13 07:57:59",
+                    "created_at": "2026-07-13 07:57:59",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "526",
+                            "tc_id": "65",
+                            "step_order": "1",
+                            "step_action": "Navigate to the issue SCRIP-100 detail page.",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "step_id": "527",
+                            "tc_id": "65",
+                            "step_order": "2",
+                            "step_action": "Attempt to edit any field such as \"description\" or \"fix version\".",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "step_id": "528",
+                            "tc_id": "65",
+                            "step_order": "3",
+                            "step_action": "Try to save the changes.",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "39",
+                            "tc_id": "65",
+                            "thread_id": "cotester_thread_6a549a82cd7881948f485b380dbdc52700029a587e5955e0",
+                            "user_id": "72",
+                            "message": "Please generate a manual test case based on JIRA story - 30159",
+                            "message_type": "sender",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "id": "40",
+                            "tc_id": "65",
+                            "thread_id": "cotester_thread_6a549a82cd7881948f485b380dbdc52700029a587e5955e0",
+                            "user_id": "72",
+                            "message": "Test Case Title: Attempt to Update Issue Without Sufficient Permissions\nModule: Issue Management\nPriority: High\n\nPreconditions:\n- - User is authenticated but does not have update permissions for issues.\n- - Issue SCRIP-100 exists in the system.\n\nTest Steps:\n1. Navigate to the issue SCRIP-100 detail page.\n2. Attempt to edit any field such as \"description\" or \"fix version\".\n3. Try to save the changes.\n\nExpected Result:\n- - System displays an appropriate error message indicating insufficient permissions.\n- - No change is made to the issue.\n- - \"Updated\" timestamp remains unchanged.",
+                            "message_type": "replier",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "66",
+                    "test_case_id": "0",
+                    "jira_id": "7",
+                    "version_module_id": "207",
+                    "tc_name": "Update Issue with Maximum Allowed Characters in the Description Field",
+                    "thread_id": null,
+                    "tc_description": "Test Case Title: Update Issue with Maximum Allowed Characters in the Description Field\nModule: Issue Management\nPriority: Low\n\nPreconditions:\n- - User is authenticated and has permission to update issues.\n- - Issue SCRIP-100 exists in the system.\n- - The maximum character limit for the description field is known.\n\nTest Steps:\n1. Navigate to the issue SCRIP-100 detail page.\n2. Enter a description exactly at the maximum allowed character limit.\n3. Save the changes.\n\nExpected Result:\n- - The description updates successfully without error.\n- - \"Updated\" timestamp reflects the current date and time.\n- - The full description is displayed without truncation or data loss.",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-13 07:57:59",
+                    "created_at": "2026-07-13 07:57:59",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "529",
+                            "tc_id": "66",
+                            "step_order": "1",
+                            "step_action": "Navigate to the issue SCRIP-100 detail page.",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "step_id": "530",
+                            "tc_id": "66",
+                            "step_order": "2",
+                            "step_action": "Enter a description exactly at the maximum allowed character limit.",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "step_id": "531",
+                            "tc_id": "66",
+                            "step_order": "3",
+                            "step_action": "Save the changes.",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "41",
+                            "tc_id": "66",
+                            "thread_id": "cotester_thread_6a549a82cd7881948f485b380dbdc52700029a587e5955e0",
+                            "user_id": "72",
+                            "message": "Please generate a manual test case based on JIRA story - 30159",
+                            "message_type": "sender",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        },
+                        {
+                            "id": "42",
+                            "tc_id": "66",
+                            "thread_id": "cotester_thread_6a549a82cd7881948f485b380dbdc52700029a587e5955e0",
+                            "user_id": "72",
+                            "message": "Test Case Title: Update Issue with Maximum Allowed Characters in the Description Field\nModule: Issue Management\nPriority: Low\n\nPreconditions:\n- - User is authenticated and has permission to update issues.\n- - Issue SCRIP-100 exists in the system.\n- - The maximum character limit for the description field is known.\n\nTest Steps:\n1. Navigate to the issue SCRIP-100 detail page.\n2. Enter a description exactly at the maximum allowed character limit.\n3. Save the changes.\n\nExpected Result:\n- - The description updates successfully without error.\n- - \"Updated\" timestamp reflects the current date and time.\n- - The full description is displayed without truncation or data loss.",
+                            "message_type": "replier",
+                            "created_at": "2026-07-13 07:57:59",
+                            "updated_at": "2026-07-13 07:57:59"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "67",
+                    "test_case_id": "891",
+                    "jira_id": "0",
+                    "version_module_id": "207",
+                    "tc_name": "GDW",
+                    "thread_id": "cotester_thread_6a549b0090648194858c2ef709eb98290baa1c3217e39c6a",
+                    "tc_description": "",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-13 08:01:08",
+                    "created_at": "2026-07-13 07:59:37",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "556",
+                            "tc_id": "67",
+                            "step_order": "1",
+                            "step_action": "Wait until the “OK” button is visible on the screen.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "557",
+                            "tc_id": "67",
+                            "step_order": "2",
+                            "step_action": "Tap on the “OK” button.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "558",
+                            "tc_id": "67",
+                            "step_order": "3",
+                            "step_action": "Wait until the “Wind” text is visible.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "559",
+                            "tc_id": "67",
+                            "step_order": "4",
+                            "step_action": "Swipe down to refresh or show additional options.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "560",
+                            "tc_id": "67",
+                            "step_order": "5",
+                            "step_action": "Wait until the “Update” text view is visible.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "561",
+                            "tc_id": "67",
+                            "step_order": "6",
+                            "step_action": "Tap on the “Update” text view.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "562",
+                            "tc_id": "67",
+                            "step_order": "7",
+                            "step_action": "Tap on the “Search” button.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "563",
+                            "tc_id": "67",
+                            "step_order": "8",
+                            "step_action": "Wait until the “Search location” edit text field is visible.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "564",
+                            "tc_id": "67",
+                            "step_order": "9",
+                            "step_action": "Enter “Mumbai” in the search location edit field.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "565",
+                            "tc_id": "67",
+                            "step_order": "10",
+                            "step_action": "Wait until the “IN” option is visible in the search results.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "566",
+                            "tc_id": "67",
+                            "step_order": "11",
+                            "step_action": "Tap on the “IN” option.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        },
+                        {
+                            "step_id": "567",
+                            "tc_id": "67",
+                            "step_order": "12",
+                            "step_action": "Wait until the “Refresh” location button is visible.",
+                            "created_at": "2026-07-13 08:00:39",
+                            "updated_at": "2026-07-13 08:00:39"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "43",
+                            "tc_id": "67",
+                            "thread_id": "",
+                            "user_id": "65",
+                            "message": "- Wait for the visibility of “OK” button\n- Tap on “OK” button.\n- Wait for the visibility of “Wind” text is visible.\n- Swipe down\n- Wait for the visibility of “Update” textview\n- Tap on “Update” text view.\n- Tap on “Search” button\n- Wait for the visibility of “Search location” edittext field is visible\n- Type in “Mumbai” in the searchh location edit field.\n- Wait for visibility of “IN” option is visible.\n- Tap on “IN” \n- Wait for the visibility of “Refresh” location button.",
+                            "message_type": "sender",
+                            "created_at": "2026-07-13 07:59:58",
+                            "updated_at": "2026-07-13 07:59:58"
+                        },
+                        {
+                            "id": "44",
+                            "tc_id": "67",
+                            "thread_id": "",
+                            "user_id": "65",
+                            "message": "Test Case: 1\n\nTest Case Title: Location Search and Update Flow for Mumbai\nModule: Location Search and Update\nPriority: Medium\n\nPreconditions:\n- The application is installed and launched.\n- User is on the start/main screen of the app.\n- Device is connected to the internet.\n\nTest Steps:\n1. Wait until the “OK” button is visible on the screen.\n2. Tap on the “OK” button.\n3. Wait until the “Wind” text is visible.\n4. Swipe down to refresh or show additional options.\n5. Wait until the “Update” text view is visible.\n6. Tap on the “Update” text view.\n7. Tap on the “Search” button.\n8. Wait until the “Search location” edit text field is visible.\n9. Enter “Mumbai” in the search location edit field.\n10. Wait until the “IN” option is visible in the search results.\n11. Tap on the “IN” option.\n12. Wait until the “Refresh” location button is visible.\n\nExpected Result:\n- “OK” button is displayed and can be tapped.\n- Tapping “OK” navigates to a screen where “Wind” text is displayed.\n- Swiping down reveals or refreshes the “Update” text view.\n- “Update” text view is shown and is tappable.\n- Tapping “Update” displays the “Search” button.\n- “Search” button is present and can be tapped.\n- Tapping “Search” shows a “Search location” edit text field.\n- “Mumbai” can be typed into the search field.\n- “IN” option appears in the search results when “Mumbai” is typed.\n- “IN” option can be selected by tapping.\n- “Refresh” location button becomes visible after the location is selected.",
+                            "message_type": "replier",
+                            "created_at": "2026-07-13 08:00:07",
+                            "updated_at": "2026-07-13 08:00:07"
+                        }
+                    ]
+                }
+            ],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "1031",
+                    "user_id": "65",
+                    "app_id": "153",
+                    "version_id": "177",
+                    "version_module_id": "207",
+                    "description": "",
+                    "action_process": "add_version_module"
+                },
+                {
+                    "id": "1032",
+                    "user_id": "65",
+                    "app_id": "153",
+                    "version_id": "177",
+                    "version_module_id": "207",
+                    "description": "",
+                    "action_process": "add_test_case"
+                },
+                {
+                    "id": "1038",
+                    "user_id": "65",
+                    "app_id": "153",
+                    "version_id": "177",
+                    "version_module_id": "207",
+                    "description": "",
+                    "action_process": "delete_test_case"
+                }
+            ],
+            "abo_vm_test_story_manual": [],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "207",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "image_url": "",
+                    "abo_version_maps": []
+                }
+            ]
+        }
+    ],
+    "abo_version_capabilities": [],
+    "abo_import_statement": [],
+    "abo_maven_dependency": [],
+    "abo_external_jar": [],
+    "abo_global_variable": [],
+    "ab_scheduler": [],
+    "domain": "qainofc1.testgrid.io"
+}
