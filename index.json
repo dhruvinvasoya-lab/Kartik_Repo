@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "832",
-    "user_id": 53,
+    "version_id": 832,
+    "user_id": 55,
     "abo_version": {
         "version_id": "832",
         "app_id": "514",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "514",
@@ -73,17 +73,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "5447",
-                    "user_id": "53",
-                    "app_id": "514",
-                    "version_id": "832",
-                    "version_module_id": "1110",
-                    "description": "",
-                    "action_process": "add_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -122,17 +112,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "5549",
-                    "user_id": "53",
-                    "app_id": "514",
-                    "version_id": "832",
-                    "version_module_id": "1154",
-                    "description": "Copied4",
-                    "action_process": "add_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -151,7 +131,7 @@
             "capabilities_id": "104",
             "version_id": "832",
             "capabilities_keyname": "appActivity",
-            "capabilities_keyvalue": "com.nestdesign.nestforms.presentation.ui.splash.SplashActivity"
+            "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
         },
         {
             "capabilities_id": "105",
