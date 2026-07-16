@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_UsernameorEmailEditText">
+    <element type="xpath">(//android.widget.EditText[@resource-id='com.nestdesign.nestforms:id/usernameEdit'])[1]</element>
+    <element type="xpath">(//android.widget.EditText[@text='Username or Email'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.EditText</element>
+    <element type="xpath">(//android.widget.EditText[@hint='Username or Email'])[1]</element>
+  </locator>
+  <locator name="ele_PasswordEditText">
+    <element type="xpath">(//android.widget.EditText[@resource-id='com.nestdesign.nestforms:id/passwordEdit'])[1]</element>
+    <element type="xpath">(//android.widget.EditText[@text='Password'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.EditText[2]</element>
+    <element type="xpath">(//android.widget.EditText[@hint='Password'])[1]</element>
+  </locator>
+  <locator name="ele_EnterasGuestButton">
+    <element type="xpath">(//android.widget.Button[@resource-id='com.nestdesign.nestforms:id/guestButton'])[1]</element>
+    <element type="xpath">(//android.widget.Button[@text='Enter as Guest'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]</element>
+  </locator>
+</locators>

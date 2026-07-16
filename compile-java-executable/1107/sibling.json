@@ -1,0 +1,229 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_UsernameorEmailEditText",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@resource-id='com.nestdesign.nestforms:id/usernameEdit'])[1]",
+                    "locator_id": "3",
+                    "d_h": 145,
+                    "d_w": 750,
+                    "d_x": 165,
+                    "d_y": 444,
+                    "suggest_name": "UsernameorEmailEditText"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "UsernameorEmailEditText",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//android.widget.EditText[@resource-id='com.nestdesign.nestforms:id/usernameEdit'])[1]"
+                    ],
+                    "img": "",
+                    "d_h": "145",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "444",
+                    "element_area": 895
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "UsernameorEmailEditText",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//android.widget.EditText[@text='Username or Email'])[1]"
+                    ],
+                    "img": "",
+                    "d_h": "145",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "444",
+                    "element_area": 895
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "UsernameorEmailEditText",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_h": "145",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "444",
+                    "element_area": 895
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "UsernameorEmailEditText",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//android.widget.EditText[@hint='Username or Email'])[1]"
+                    ],
+                    "img": "",
+                    "d_h": "145",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "444",
+                    "element_area": 895
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_PasswordEditText",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@resource-id='com.nestdesign.nestforms:id/passwordEdit'])[1]",
+                    "locator_id": "3",
+                    "d_h": 145,
+                    "d_w": 750,
+                    "d_x": 165,
+                    "d_y": 589,
+                    "suggest_name": "PasswordEditText"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "PasswordEditText",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//android.widget.EditText[@resource-id='com.nestdesign.nestforms:id/passwordEdit'])[1]"
+                    ],
+                    "img": "",
+                    "d_h": "145",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "589",
+                    "element_area": 895
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "PasswordEditText",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//android.widget.EditText[@text='Password'])[1]"
+                    ],
+                    "img": "",
+                    "d_h": "145",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "589",
+                    "element_area": 895
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "PasswordEditText",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.EditText[2]"
+                    ],
+                    "img": "",
+                    "d_h": "145",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "589",
+                    "element_area": 895
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "PasswordEditText",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//android.widget.EditText[@hint='Password'])[1]"
+                    ],
+                    "img": "",
+                    "d_h": "145",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "589",
+                    "element_area": 895
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EnterasGuestButton",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.Button[@resource-id='com.nestdesign.nestforms:id/guestButton'])[1]",
+                    "locator_id": "3",
+                    "d_h": 150,
+                    "d_w": 750,
+                    "d_x": 165,
+                    "d_y": 1552,
+                    "suggest_name": "EnterasGuestButton"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EnterasGuestButton",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//android.widget.Button[@resource-id='com.nestdesign.nestforms:id/guestButton'])[1]"
+                    ],
+                    "img": "",
+                    "d_h": "150",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "1552",
+                    "element_area": 900
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EnterasGuestButton",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//android.widget.Button[@text='Enter as Guest'])[1]"
+                    ],
+                    "img": "",
+                    "d_h": "150",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "1552",
+                    "element_area": 900
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EnterasGuestButton",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]"
+                    ],
+                    "img": "",
+                    "d_h": "150",
+                    "d_w": "750",
+                    "d_x": "165",
+                    "d_y": "1552",
+                    "element_area": 900
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}

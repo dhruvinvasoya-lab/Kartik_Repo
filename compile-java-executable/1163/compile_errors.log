@@ -1,0 +1,32 @@
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a58d64f30a9f_8311/appium-android/src/test/java/newkey01copy.java:2: error: package org.bson does not exist
+import org.bson.BsonDocument;
+               ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a58d64f30a9f_8311/appium-android/src/test/java/newkey01copy.java:3: error: package org.bson does not exist
+import org.bson.BsonInt64;
+               ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a58d64f30a9f_8311/appium-android/src/test/java/newkey01copy.java:4: error: package org.bson does not exist
+import org.bson.Document;
+               ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a58d64f30a9f_8311/appium-android/src/test/java/newkey01copy.java:5: error: package org.bson.conversions does not exist
+import org.bson.conversions.Bson;
+                           ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a58d64f30a9f_8311/appium-android/src/test/java/newkey01copy.java:6: error: package com.mongodb.client does not exist
+import com.mongodb.client.MongoClient;
+                         ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a58d64f30a9f_8311/appium-android/src/test/java/newkey01copy.java:7: error: package com.mongodb.client does not exist
+import com.mongodb.client.MongoClients;
+                         ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a58d64f30a9f_8311/appium-android/src/test/java/newkey01copy.java:8: error: package com.mongodb.client does not exist
+import com.mongodb.client.MongoDatabase;
+                         ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a58d64f30a9f_8311/appium-android/src/test/java/newkey01copy.java:1: error: package com.mongodb does not exist
+import com.mongodb.*;
+^
+8 errors
