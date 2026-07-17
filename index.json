@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "184",
-    "user_id": 65,
+    "version_id": 184,
+    "user_id": 72,
     "abo_version": {
         "version_id": "184",
         "app_id": "153",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "153",
@@ -88,15 +88,7 @@
                     "updated_at": "2026-07-10 11:12:00",
                     "created_at": "2026-07-10 11:10:26",
                     "qtest_skip_sync": "0",
-                    "test_case_tags": [
-                        {
-                            "id": "28",
-                            "version_module_id": "195",
-                            "name": "TG",
-                            "tc_id": "800",
-                            "user_id": "65"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/153/184/195/testcases/tgcon.java",
                     "vault_paths": []
@@ -322,19 +314,11 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
-                    "is_draft": "72",
-                    "updated_at": "2026-07-10 14:19:28",
+                    "is_draft": "0",
+                    "updated_at": "2026-07-17 09:28:40",
                     "created_at": "2026-07-10 14:19:28",
                     "qtest_skip_sync": "1",
-                    "test_case_tags": [
-                        {
-                            "id": "33",
-                            "version_module_id": "195",
-                            "name": "urun",
-                            "tc_id": "815",
-                            "user_id": "65"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/153/184/195/testcases/tdptgvar.java",
                     "vault_paths": []
@@ -503,62 +487,7 @@
                     "abo_na_steps": []
                 }
             ],
-            "abo_update": [
-                {
-                    "id": "958",
-                    "user_id": "65",
-                    "app_id": "153",
-                    "version_id": "184",
-                    "version_module_id": "195",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "959",
-                    "user_id": "65",
-                    "app_id": "153",
-                    "version_id": "184",
-                    "version_module_id": "195",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "960",
-                    "user_id": "65",
-                    "app_id": "153",
-                    "version_id": "184",
-                    "version_module_id": "195",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "987",
-                    "user_id": "65",
-                    "app_id": "153",
-                    "version_id": "184",
-                    "version_module_id": "195",
-                    "description": "",
-                    "action_process": "add_test_function"
-                },
-                {
-                    "id": "988",
-                    "user_id": "65",
-                    "app_id": "153",
-                    "version_id": "184",
-                    "version_module_id": "195",
-                    "description": "",
-                    "action_process": "add_element"
-                },
-                {
-                    "id": "1000",
-                    "user_id": "65",
-                    "app_id": "153",
-                    "version_id": "184",
-                    "version_module_id": "195",
-                    "description": "",
-                    "action_process": "edit_element"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
