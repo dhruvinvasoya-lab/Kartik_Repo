@@ -25,10 +25,10 @@ public class tc_ios1 {
 		tg.wait(60);
 		tg.wait(60);
 		tg.wait(60);
-		tg.wait(60);
-		tg.wait(60);
-		tg.wait(60);
-		tg.wait(60);
+		// [DISABLED] tg.wait(60);
+		// [DISABLED] tg.wait(60);
+		// [DISABLED] tg.wait(60);
+		// [DISABLED] tg.wait(60);
 		tg.close();
 	}
 }
