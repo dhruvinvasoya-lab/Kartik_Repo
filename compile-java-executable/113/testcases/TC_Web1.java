@@ -29,10 +29,10 @@ public class tc_web1 {
 		tg.wait(60);
 		tg.wait(60);
 		tg.wait(60);
-		tg.wait(60);
-		tg.wait(60);
-		tg.wait(60);
-		tg.wait(60);
+		// [DISABLED] tg.wait(60);
+		// [DISABLED] tg.wait(60);
+		// [DISABLED] tg.wait(60);
+		// [DISABLED] tg.wait(60);
 		tg.close();
 	}
 }
