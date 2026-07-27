@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "102",
-    "user_id": 27,
+    "version_id": 102,
+    "user_id": 31,
     "abo_version": {
         "version_id": "102",
         "app_id": "59",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "59",
@@ -85,8 +85,8 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
-                    "is_draft": "31",
-                    "updated_at": "2026-07-27 12:11:43",
+                    "is_draft": "0",
+                    "updated_at": "2026-07-27 12:15:11",
                     "created_at": "2026-07-27 12:11:43",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -98,26 +98,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "677",
-                    "user_id": "27",
-                    "app_id": "59",
-                    "version_id": "102",
-                    "version_module_id": "113",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "678",
-                    "user_id": "27",
-                    "app_id": "59",
-                    "version_id": "102",
-                    "version_module_id": "113",
-                    "description": "",
-                    "action_process": "add_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
