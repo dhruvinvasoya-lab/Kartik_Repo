@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_firstname196">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/113/1479.png</element>
+  </locator>
+  <locator name="ele_firstname137">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/113/1480.png</element>
+  </locator>
+  <locator name="ele_lastname374">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/113/1481.png</element>
+  </locator>
+  <locator name="ele_lastname796">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/113/1482.png</element>
+  </locator>
+</locators>

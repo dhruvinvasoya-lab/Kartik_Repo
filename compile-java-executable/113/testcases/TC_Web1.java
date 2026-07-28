@@ -25,14 +25,17 @@ public class tc_web1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc_web1() {
 		tg.openBrowser();
-		tg.wait(60);
-		tg.wait(60);
-		tg.wait(60);
-		tg.wait(60);
-		// [DISABLED] tg.wait(60);
-		// [DISABLED] tg.wait(60);
-		// [DISABLED] tg.wait(60);
-		// [DISABLED] tg.wait(60);
+		tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
+		tg.wait(5);
+		tg.wait("ele_firstname196", ComparisonType.IS_VISIBLE);
+		tg.click("ele_firstname196", 1);
+		tg.wait("ele_firstname196", ComparisonType.IS_VISIBLE);
+		tg.type("ele_firstname196", "#TGITVAR.userId");
+		tg.wait("ele_lastname374", ComparisonType.IS_VISIBLE);
+		tg.click("ele_lastname374", 1);
+		tg.wait("ele_lastname374", ComparisonType.IS_VISIBLE);
+		tg.type("ele_lastname374", "#TGITVAR.title");
+		tg.wait(5);
 		tg.close();
 	}
 }
