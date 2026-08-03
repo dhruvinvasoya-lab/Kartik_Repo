@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-08-03 10:32:38",
+            "view_updated_date_time": "2026-08-03 10:32:53",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -73,7 +73,7 @@
                 {
                     "tc_id": "7667",
                     "version_module_id": "1181",
-                    "tc_name": "TC01",
+                    "tc_name": "TC_01",
                     "tc_description": "",
                     "tc_website_url": "",
                     "it_json": "",
@@ -85,12 +85,12 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-08-03 10:29:23",
+                    "updated_at": "2026-08-03 10:32:53",
                     "created_at": "2026-08-03 10:25:32",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/552/866/1181/testcases/tc01.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/552/866/1181/testcases/tc_01.java",
                     "vault_paths": []
                 }
             ],
