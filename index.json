@@ -53,15 +53,15 @@
             "parent_id": "0",
             "module_name": "SuiteAnd",
             "module_description": "",
-            "count_resource": "0",
+            "count_resource": "1",
             "cm_resource_pages": "",
-            "cm_default_resource": "",
+            "cm_default_resource": "67898",
             "cm_test_function": "2149",
             "cm_test_case": "7667",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-08-03 10:32:53",
+            "view_updated_date_time": "2026-08-03 10:34:27",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -150,6 +150,15 @@
                     "version_module_id": "1181",
                     "description": "",
                     "action_process": "add_test_function"
+                },
+                {
+                    "id": "5638",
+                    "user_id": "53",
+                    "app_id": "552",
+                    "version_id": "866",
+                    "version_module_id": "1181",
+                    "description": "",
+                    "action_process": "add_element"
                 }
             ],
             "abo_vm_test_story_manual": [],
@@ -157,10 +166,46 @@
                 {
                     "version_page_id": 0,
                     "version_module_id": "1181",
-                    "cm_resource": "",
+                    "cm_resource": "67898",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
-                    "abo_version_maps": []
+                    "abo_version_maps": [
+                        {
+                            "maps_id": "67898",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "1181",
+                            "element_name": "ele_Element1",
+                            "element_display_name": "Res1",
+                            "element_image_url": null,
+                            "element_path_rid": "(//XCUIElementTypeTextField[@name='field.fullNamesss'])[1]",
+                            "autoheal_elements": "[]",
+                            "correct_autoheal_data": null,
+                            "sibling_selector": null,
+                            "tg_text": null,
+                            "iframe_and_shadow_root_data": null,
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "shadow_data": null,
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "undefined",
+                            "element_displayname": "",
+                            "element_index": "undefined",
+                            "element_parent_element": "undefined",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "0",
+                            "d_y": "0",
+                            "d_w": "0",
+                            "d_h": "0",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1181/67898.png"
+                        }
+                    ]
                 }
             ]
         }
