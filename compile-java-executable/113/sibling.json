@@ -349,6 +349,88 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://117.240.112.135/s/ele-imgs/113/1482.png"
+        },
+        {
+            "testcase_element": "ele_radioradio171",
+            "tg_text": "",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "radio",
+                        "name": "radiooptions",
+                        "ng-model": "radiovalue",
+                        "value": "Male",
+                        "required": "",
+                        "class": "ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//label[normalize-space()='Male']//input[@name='radiooptions']",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745,
+                    "d_y": 464,
+                    "suggest_name": "radioradio171"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[5]/div/label/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio171"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"radiooptions\"]",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio171"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(5) > div > label > inputTGWEBCOMMA1",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio171"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//label/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio171"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA7",
+                    "locator_id": "6",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio171"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://117.240.112.135/s/ele-imgs/113/1596.png"
         }
     ]
 }

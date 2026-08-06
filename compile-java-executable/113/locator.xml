@@ -36,4 +36,13 @@
     <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA2</element>
     <element type="image">http://117.240.112.135/s/ele-imgs/113/1482.png</element>
   </locator>
+  <locator name="ele_radioradio171">
+    <element type="xpath">//label[normalize-space()='Male']//input[@name='radiooptions']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[5]/div/label/input</element>
+    <element type="css">input[name="radiooptions"]</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(5) &gt; div &gt; label &gt; inputTGWEBCOMMA1</element>
+    <element type="xpath">//label/input</element>
+    <element type="class">ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA7</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/113/1596.png</element>
+  </locator>
 </locators>
