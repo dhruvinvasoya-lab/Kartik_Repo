@@ -22,7 +22,7 @@ public class adaptai {
 	public void adaptai() {
 		tg.openDevice();
 		tg.wait(2);
-		tg.aiPrompt("Wait for the visibility of full name field\nType in “demo text” in full name field \nType in “randomtext” in Firstname field\nClick on clear button");
+		tg.aiPrompt("Type in “demo text” in full name field \nClick on clear button");
 		tg.wait(2);
 		tg.close();
 	}

@@ -19,7 +19,6 @@ import org.testng.annotations.Test;
 public class tdptgvar {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-    	@XrayTest(key = "TS-846")
 	public void tdptgvar() {
 		tg.openDevice();
 		tg.wait(2);
